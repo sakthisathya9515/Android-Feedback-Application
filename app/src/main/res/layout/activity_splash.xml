@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".SplashActivity"
+    style="@style/tpgit">
+
+    <ImageView
+        android:id="@+id/text"
+        android:layout_width="266dp"
+        android:layout_height="298dp"
+        android:layout_marginStart="-266dp"
+        android:layout_marginLeft="-266dp"
+        android:layout_marginTop="30dp" />
+
+</android.support.design.widget.CoordinatorLayout>

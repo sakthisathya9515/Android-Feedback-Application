@@ -1,0 +1,3 @@
+This Student Feedback System project is to develop a mobile-based application which is very useful to maintain feedback reports by the administrator. Provides a student to give feedback for the teaching of a lecturer in a mobilebased system online.Evaluates the answer given by the students based on the feedback which will be given by a number 1 to 5.Delivers feedback via student lecture interface which acts as a service provider. 
+Provides an overall report of the feedback helping the students to give suggestions about where a faculty is lagging.
+Provides individual rating of the faculty in a particular semester which will help the management in making salary appraisal decisions. 
